@@ -44,4 +44,4 @@ Zalo OA: 10/11/2026, 09:00
 
 ## Hashtag
 
-#JapaKids #BeAnNgon #TieuHoaTot
+#JapaKids #BeAnNgon #ComboJapaKids #MuaBaTangMot
