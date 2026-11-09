@@ -10,7 +10,7 @@ Claude Code KHÔNG viết bài thay em, KHÔNG tự sửa ảnh, KHÔNG tự đ�
 
 ## Thư mục làm việc trên máy Mac của anh
 
-`/Users/kai/Documents/bai-dang-zalo-meta/`
+`/Users/kai/Documents/GitHub/bai-dang-zalo-meta/`
 
 ```
 bai-dang-zalo-meta/
@@ -29,7 +29,7 @@ bai-dang-zalo-meta/
 Mở Terminal, gõ đúng 2 lệnh này (vào đúng thư mục bài đăng trước, không vào thư mục gốc):
 
 ```
-cd ~/Documents/bai-dang-zalo-meta
+cd ~/Documents/GitHub/bai-dang-zalo-meta
 claude
 ```
 

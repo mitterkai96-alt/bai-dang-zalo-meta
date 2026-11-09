@@ -49,7 +49,7 @@ Repo private, chỉ dùng cho công việc của anh Hiệp, không bán cho ng�
 ## Cách chạy Claude Code trong repo này
 
 ```
-cd ~/Documents/bai-dang-zalo-meta
+cd ~/Documents/GitHub/bai-dang-zalo-meta
 claude
 ```
 
