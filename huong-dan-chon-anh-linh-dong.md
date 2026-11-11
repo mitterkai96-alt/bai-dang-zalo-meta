@@ -23,7 +23,7 @@ Không có 1 bố cục chuẩn cho mọi bài. Trước khi thiết kế, trả
 ## Cái cố định (không đổi theo bài)
 
 - Logo Japa Kids góc trái phía trên, nhỏ, không chồng lên mặt người hay sản phẩm.
-- Font Be Vietnam Pro, chữ đậm trên nền sáng, tương phản tối thiểu 4,5:1.
+- Font Be Vietnam Pro, chữ đậm trên nền sáng, tương phản tối thiểu 4,5:1. Ngoại lệ: tiêu đề trên ảnh bìa được dùng font serif Playfair Display theo mẫu bìa Ngày 1 anh đã duyệt (09/11/2026); các chữ khác trên ảnh vẫn dùng Be Vietnam Pro.
 - Ảnh sản phẩm bán hàng phải là ảnh thật của Japa Kids, không dùng ảnh sản phẩm khác.
 - Ảnh tìm được: ảnh thật, ưu tiên Việt Nam / châu Á, miễn phí bản quyền, ghi rõ nguồn (vd Pexels + mã ảnh). Không lấy ảnh trong bài báo của người khác. Ảnh AI ghi rõ "ảnh minh họa".
 - Chữ trên ảnh qua kiểm duyệt claim như nội dung bài, chỉ dùng công dụng đã duyệt.
