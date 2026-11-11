@@ -57,11 +57,11 @@ Thực phẩm này không phải là thuốc và không có tác dụng thay th�
 
 ## Alt text cho ảnh chính
 
-Bé khóc quay đi khi bố đưa cốc thức ăn tới, bàn ăn gỗ — Bé biếng ăn: 3 sai lầm khiến bé càng ép càng biếng ăn.
+Bé khóc, đưa tay ra khi bố cầm cốc thức ăn tới, bàn ăn gỗ — Bé biếng ăn: 3 sai lầm khiến bé càng ép càng biếng ăn.
 
 ## Nguồn tham khảo
 
-Kiemsat.vn, "Trẻ biếng ăn: Sai lầm phổ biến cha mẹ nên tránh", đăng 13:56, 04/12/2025; bài có ghi review bởi Bác sĩ CKI. Lê Hồng Thiện (ngày review 15/08/2024). Link: https://kiemsat.vn/print/73632.html — đọc ngày 10/11/2026.
+Kiemsat.vn, "Trẻ biếng ăn: Sai lầm phổ biến cha mẹ nên tránh", đăng 13:56, 04/12/2025; bài có ghi review bởi Bác sĩ CKI. Lê Hồng Thiện (ngày review 15/08/2024). Link: https://kiemsat.vn/print/73632.html — đọc ngày 11/11/2026.
 - 3 sai lầm trong bài lấy đúng 3 mục của nguồn: "Ép trẻ ăn", "Chiều theo 'sở thích' ăn uống của con" (ăn vặt trước bữa), "Tập các thói quen không tốt để khiến trẻ chịu ăn" (vừa ăn vừa xem ti vi/điện thoại).
 - Lưu ý: bài nguồn có đoạn cuối giới thiệu 1 sản phẩm sữa chua uống men sống — KHÔNG dùng đoạn đó, không nhắc tên sản phẩm đó trong bài này.
 
