@@ -16,6 +16,7 @@ Nguồn ý tưởng: tài liệu "Cách xây dựng cỗ máy content với Clau
 | Đã duyệt | Anh đã duyệt, chờ tới giờ đăng | — | Tới lịch đăng |
 | Đã đăng | Đã đăng lên Facebook / Zalo OA theo lịch | n8n (cron 6) | Có link bài đăng, ghi vào log |
 | Cần sửa | Kiểm duyệt hoặc anh yêu cầu sửa | Em | Sửa xong thì quay lại "Đang kiểm duyệt" |
+| Bản thử | Bài chỉ để thử quy trình kiểm duyệt, không bao giờ đăng | Em (theo quyết định của anh) | Đã kiểm duyệt xong, ghi rõ "không đăng", không chuyển sang "Chờ anh duyệt" |
 
 ## Quy tắc
 
@@ -29,8 +30,9 @@ Nguồn ý tưởng: tài liệu "Cách xây dựng cỗ máy content với Clau
 
 | Mã bài | Chủ đề | Kênh | Trạng thái | Cập nhật lần cuối | Ghi chú |
 |---|---|---|---|---|---|
-| bai-2026-11-09-combo-3 | Combo 3 — Mua 3 tặng 1 | Facebook + Zalo OA | Chờ anh duyệt | 09/11/2026 | Bản thử để test quy trình kiểm duyệt. Đã sửa xong 4 lỗi Claude Code bắt ra. Chưa phải bài duyệt đăng. |
-| bai-2026-11-09-3-buoc-bua-an | 3 bước để bữa ăn nhẹ nhàng hơn (Ngày 1) | Facebook + Zalo OA | Đang kiểm duyệt | 09/11/2026 | Đang chờ Claude Code kiểm tra chéo. Chưa đăng. |
+| bai-2026-11-09-combo-3 | Combo 3 — Mua 3 tặng 1 | Facebook + Zalo OA | Bản thử | 09/11/2026 16:20 | Bản thử để test quy trình kiểm duyệt. Đã sửa xong 4 lỗi Claude Code bắt ra. Không đăng — anh chốt 09/11/2026, xác nhận lại 16:20. Cron Bước 6 không gửi duyệt bài này. |
+| bai-2026-11-09-3-buoc-bua-an | 3 bước để bữa ăn nhẹ nhàng hơn (Ngày 1) | Facebook + Zalo OA | Đã đăng | 09/11/2026 23:32 | ĐÃ ĐĂNG cả 2 kênh tối 09/11/2026: Facebook lên Page (anh báo 23:20), Zalo OA 23:32 (bài viết https://post.oa.zalo.me/d/3198045891485336371?zl3rd=815789662550058820&id=5f4fd5e7efa306fd5fb2&pageId=3198045891485336371). Sửa trạng thái ngày 11/11/2026 — dòng cũ ghi "Chờ anh duyệt" là sai sót, bài đã đăng từ 09/11. |
+| bai-2026-11-11-3-sai-lam-ep-an | 3 sai lầm khiến bé càng ép càng biếng ăn | Facebook + Zalo OA | Đang kiểm duyệt | 11/11/2026 10:45 | Muse kiểm lần 1 ngày 11/11/2026: Đạt toàn bộ (3 lớp + Mục 4 10/10 + Mục 5 qua kiểm tra sáo rỗng). 2 sửa trong kiểm duyệt: tiêu đề Zalo + alt text. Ảnh bìa 2 nền tảng đã làm xong (ảnh Pexels George Pak, bé khóc quay đi). Chờ Claude Code kiểm tra chéo (việc 3 + việc 6) rồi anh duyệt cuối, đăng 20:00 ngày 11/11/2026. |
 | mau-bai | Bài mẫu (copy từ Combo 3) | — | Mẫu | 09/11/2026 | Không phải bài đăng thật. Dùng làm khuôn cho bài mới. |
 
 ## Ai được đổi trạng thái

@@ -2,7 +2,7 @@
 
 Mã bài: bai-2026-11-09-3-buoc-bua-an
 Ngày: 09/11/2026
-Phiên bản: v2 — viết lại theo chuẩn SEO / đề xuất (09/11/2026, 15:46)
+Phiên bản: v3 — sửa theo kết luận kiểm duyệt Claude Code (09/11/2026, 16:08): việc 3 CẦN SỬA (5 chỗ) + việc 6 9/10 (alt text)
 Mục đích: kiến thức — mẹ lưu lại dùng dần, tin tưởng thương hiệu
 Tình huống ảnh: kiến thức → ảnh thật bữa ăn gia đình, 3 bước trên nền kem, điểm nhấn là 1 từ khóa trong tiêu đề
 
@@ -25,7 +25,7 @@ Bước 1: Cho bé ăn đúng giờ, không ăn vặt sát bữa. Khi bé thật
 
 Bước 2: Để bé tự xúc, mẹ không ép, không dỗ bằng điện thoại. Bé được tự quyết sẽ ăn tập trung hơn, mẹ cũng đỡ căng thẳng hơn. Bẩn một chút cũng không sao, quan trọng là bé ăn trong tâm trạng thoải mái.
 
-Bước 3: Khen bé khi bé ăn hết, dù chỉ thêm 1 thìa. Một lời khen đúng lúc giúp bé muốn lặp lại hành vi tốt ở bữa sau. Mẹ khen cụ thể việc bé làm được, thay vì khen chung chung.
+Bước 3: Khen bé khi bé ăn thêm được, dù chỉ 1 thìa. Một lời khen đúng lúc giúp bé muốn lặp lại hành vi tốt ở bữa sau. Mẹ khen cụ thể việc bé làm được, thay vì khen chung chung.
 
 Mẹ lưu bài này lại để dùng dần nhé. Bài viết chỉ chia sẻ kinh nghiệm chung, không thay thế việc khám, chẩn đoán hay điều trị.
 
@@ -37,7 +37,7 @@ Thực phẩm này không phải là thuốc và không có tác dụng thay th�
 
 #JapaKids #BuaAnVui #MeoChamBe
 
-## Bài Zalo OA (viết lại riêng, không copy Facebook — 161 chữ)
+## Bài Zalo OA (viết lại riêng, không copy Facebook — 172 chữ)
 
 Tiêu đề Zalo OA (36 ký tự, dưới 39 ký tự để không bị cắt trên giao diện Zalo):
 
@@ -49,15 +49,17 @@ Bước 1: Cho bé ăn đúng giờ, không ăn vặt sát bữa. Khi bé thật
 
 Bước 2: Để bé tự xúc, không ép, không dỗ bằng điện thoại. Bé được tự quyết sẽ ăn tập trung hơn, mẹ cũng đỡ căng thẳng hơn.
 
-Bước 3: Khen bé khi bé ăn hết, dù chỉ thêm 1 thìa. Một lời khen đúng lúc giúp bé muốn lặp lại hành vi tốt ở bữa sau.
+Bước 3: Khen bé khi bé ăn thêm được, dù chỉ 1 thìa. Một lời khen đúng lúc giúp bé muốn lặp lại hành vi tốt ở bữa sau.
 
-Mẹ lưu bài này lại để dùng dần mẹ nhé. Nội dung chỉ chia sẻ kinh nghiệm chung, không thay thế việc khám, chẩn đoán hay điều trị.
+Mẹ lưu bài này lại để dùng dần nhé. Nội dung chỉ chia sẻ kinh nghiệm chung, không thay thế việc khám, chẩn đoán hay điều trị.
+
+Japa Kids hỗ trợ tăng cường tiêu hóa, giúp ăn ngon miệng.
 
 Thực phẩm này không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.
 
 ## Alt text cho ảnh chính (ghi khi đăng tay; API Facebook không nhận alt text)
 
-Mẹ cho bé ăn cơm cùng gia đình — 3 bước giúp bé biếng ăn có bữa ăn nhẹ nhàng hơn.
+Bàn ăn gia đình có bánh mì, mì Ý và trái cây — 3 bước giúp bé biếng ăn có bữa ăn nhẹ nhàng hơn.
 
 ## Lịch đăng đề xuất
 
@@ -67,6 +69,21 @@ Zalo OA: 10/11/2026, 09:00
 ## Hashtag
 
 #JapaKids #BuaAnVui #MeoChamBe
+
+## Nguồn tham khảo (chi tiết trong nguon-tham-khao.md)
+
+1. VnExpress Sức khỏe, "Vì sao trẻ biếng ăn?", 26/7/2026 — ThS.BS Hoàng Thị Hằng, Đơn vị Dinh dưỡng, Phòng khám Đa khoa Tâm Anh Cầu Giấy. Hỗ trợ bước 1 và bước 2.
+2. Eva.vn, "Trẻ biếng ăn làm thế nào? 7 cách giúp con ăn uống tốt hơn". Hỗ trợ bước 2 và bước 3 (tự xúc, khen/ghi nhận tiến bộ nhỏ, hạn chế điện thoại/TV).
+
+## Thay đổi so với v2 (bản v3 — sửa theo kết luận Claude Code, 09/11/2026)
+
+- Bước 3 sửa câu mâu thuẫn ở cả bài Facebook, bài Zalo OA và chữ trên ảnh: "Khen bé khi bé ăn hết, dù chỉ thêm 1 thìa." → "Khen bé khi bé ăn thêm được, dù chỉ 1 thìa."
+- Tiêu đề trên ảnh đổi từ "Bữa ăn nhẹ nhàng hơn trong 3 bước" sang "Bé biếng ăn: 3 bước bữa ăn nhẹ nhàng" (khớp tiêu đề Zalo OA); cụm "Bé biếng ăn" là điểm nhấn duy nhất, chữ đỏ #D32F2F trên nền vàng nhạt #FFD65A.
+- Bài Zalo OA: "Mẹ lưu bài này lại để dùng dần mẹ nhé." → "Mẹ lưu bài này lại để dùng dần nhé." (bỏ chữ "mẹ" thừa).
+- Bài Zalo OA: thêm dòng sản phẩm "Japa Kids hỗ trợ tăng cường tiêu hóa, giúp ăn ngon miệng." trước câu cảnh báo, để chữ "thực phẩm này" trong câu cảnh báo có đối tượng chỉ vào (lưu ý thêm của Claude Code).
+- Bổ sung nguồn tham khảo thật cho 3 bước (file nguon-tham-khao.md), không bịa nguồn.
+- Alt text viết lại theo đúng nội dung ảnh: "Bàn ăn gia đình có bánh mì, mì Ý và trái cây — 3 bước giúp bé biếng ăn có bữa ăn nhẹ nhàng hơn."
+- Không đổi: 3 bước, câu lưu ý không thay thế khám / chẩn đoán / điều trị, công dụng đã duyệt, câu cảnh báo bắt buộc, hashtag, tiêu đề Facebook và Zalo OA.
 
 ## Thay đổi so với v1 (09/11/2026)
 
