@@ -23,7 +23,7 @@ Link: https://kiemsat.vn/print/73632.html — đọc và đối chiếu ngày 11
 
 ## Nguồn ảnh
 
-- Ảnh bé khóc quay đi, bố đưa cốc: Pexels, tác giả George Pak, miễn phí
+- Ảnh bé khóc, đưa tay ra khi bố cầm cốc: Pexels, tác giả George Pak, miễn phí
   bản quyền.
   Trang ảnh: https://www.pexels.com/photo/crying-hungry-boy-by-a-table-getting-food-7984381/
   Mô tả trên Pexels: "A father feeds his crying toddler applesauce at a
