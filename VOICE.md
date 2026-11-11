@@ -36,6 +36,8 @@ Nguồn: Mục 6 Quy tắc làm bài đăng Zalo / Meta (Bản 1.0) + quyết đ
 
 Không viết khác đi, không thêm bớt. Hashtag cũng không được ngầm hứa kết quả (ví dụ #TieuHoaTot đã bị chặn ngày 09/11/2026, phải đổi thành #ComboJapaKids #MuaBaTangMot).
 
+**Ngoại lệ (anh chốt ngày 11/11/2026):** được thêm tên sản phẩm làm chủ ngữ trước câu công dụng, với điều kiện phần công dụng giữ nguyên từng chữ. Ví dụ: "Japa Kids hỗ trợ tăng cường tiêu hóa, giúp ăn ngon miệng."
+
 ## Câu cảnh báo bắt buộc
 
 "Thực phẩm này không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh."

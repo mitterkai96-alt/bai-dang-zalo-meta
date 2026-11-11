@@ -53,8 +53,8 @@ Phương pháp chấm: đếm số tiêu chí đạt trong 10 tiêu chí. Đây 
 
 ## Kết luận
 
-**Muse kiểm lần 1: Đạt toàn bộ — kiểm tra chéo 11:42 kết luận CẦN SỬA (2 lỗi, đã sửa); kiểm tra lại 12:02 kết luận CẦN SỬA (5 chỗ, xem mục dưới), việc 6 10/10. Đã sửa 3 chỗ thật trong đợt này; đang chờ Claude Code kiểm tra lại lần 3.**
-Các sửa đã áp: tiêu đề Zalo, alt text 2 lần (mẹ→bố, thìa→cốc), nguồn "thìa"→"cốc", ngoại lệ serif vào hướng dẫn chọn ảnh + ngoại lệ 640×800 vào quy tắc §7 (theo chéo 12:02).
+**Muse kiểm lần 1: Đạt toàn bộ — kiểm tra chéo 11:42 kết luận CẦN SỬA (2 lỗi, đã sửa); kiểm tra lại 12:02 kết luận CẦN SỬA (5 chỗ, đã sửa 3 chỗ thật), việc 6 10/10; kiểm tra lần 3 12:12 sau khi merge PR #3 kết luận CẦN SỬA còn đúng 1 lỗi (câu công dụng thêm "Japa Kids" làm chủ ngữ), việc 6 10/10. Anh chốt cách B (12:15): giữ nguyên câu, ghi ngoại lệ vào VOICE.md. Đang chờ Claude Code kiểm tra lại lần 4.**
+Các sửa đã áp: tiêu đề Zalo, alt text 2 lần (mẹ→bố, thìa→cốc), nguồn "thìa"→"cốc", ngoại lệ serif vào hướng dẫn chọn ảnh + ngoại lệ 640×800 vào quy tắc §7 (theo chéo 12:02), ngoại lệ tên sản phẩm làm chủ ngữ vào VOICE.md (theo chéo lần 3, cách B do anh chốt 12:15).
 Trạng thái bài: **chờ Claude Code kiểm tra lại (việc 3 + việc 6)** rồi anh
 duyệt cuối. Ảnh đã tải lên postimg.cc (11:02 ngày 11/11/2026). Sau khi Claude Code kết luận Đạt, em
 gửi gói duyệt qua Telegram, anh bấm ✅ Duyệt lúc ~20:00 ngày 11/11/2026
@@ -81,6 +81,16 @@ thì n8n đăng cả 2 kênh ngay.
   5. Ảnh bìa không in 3 sai lầm — KHÔNG phải lỗi (bố cục thuộc "Cái linh động"). Không sửa.
 - Lưu ý: 2 lần chấm cùng 1 bài (11:42 và 12:02) nêu lỗi khác nhau — kết quả chấm tự động thay đổi giữa các lần chạy, vẫn cần người xem lại.
 - Chưa gửi gói duyệt — chờ Claude Code kiểm tra lại lần 3 sau khi sửa.
+
+## Kiểm tra lần 3 (12:12 ngày 11/11/2026, sau khi merge PR #3)
+
+- Việc 3 (3 lớp): **CẦN SỬA** — còn đúng 1 lỗi. Việc 6 (marketing/SEO): **10/10** — Đạt.
+- Lớp 1 và lớp 3 đạt. Ngoại lệ font có chân và ngoại lệ ảnh 640×800 vừa được merge đều đã được tính.
+- Lỗi duy nhất (lớp 2): câu công dụng có thêm "Japa Kids" ở đầu — "Japa Kids hỗ trợ tăng cường tiêu hóa, giúp ăn ngon miệng." — ở cả bài Facebook và bài Zalo OA.
+- Về lỗi này: lần 2 Claude Code nhận định không phải lỗi (công dụng giữ nguyên chữ, bài Ngày 1 viết như vậy, lần 1 không nêu). Nhưng VOICE.md ghi rõ "Không viết khác đi, không thêm bớt" — đọc đúng theo câu đó thì lần chấm này có lý. Lần 1 không nêu, lần 2 nêu, lần 3 lại nêu — không xử lý dứt điểm thì các lần chấm sau sẽ tiếp tục báo lỗi này.
+- Anh chốt cách B (12:15): **giữ nguyên câu, ghi ngoại lệ vào VOICE.md** — được thêm tên sản phẩm làm chủ ngữ trước câu công dụng, với điều kiện phần công dụng giữ nguyên từng chữ. Ngoại lệ đã ghi vào VOICE.md (mục "Công dụng duy nhất được phép nói"). Không sửa bai-viet.md.
+- Kết quả đầy đủ nằm trong file ket-qua-kiem-duyet.md trên nhánh review/... mới (lần 3) — **KHÔNG merge nhánh này vào main** (kết quả CẦN SỬA).
+- Chưa gửi gói duyệt — chờ Claude Code kiểm tra lại lần 4 sau khi sửa.
 
 ## Giả định cần anh kiểm tra
 
