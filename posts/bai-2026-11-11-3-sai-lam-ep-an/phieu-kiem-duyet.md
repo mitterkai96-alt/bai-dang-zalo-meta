@@ -53,8 +53,8 @@ Phương pháp chấm: đếm số tiêu chí đạt trong 10 tiêu chí. Đây 
 
 ## Kết luận
 
-**Muse kiểm lần 1: Đạt toàn bộ (ngày 11/11/2026) — nhưng kiểm tra chéo 11:42 cùng ngày kết luận CẦN SỬA (xem mục dưới). Đã sửa 2 lỗi theo kết quả chéo; đang chờ Claude Code kiểm tra lại.**
-3 sửa đã áp: tiêu đề Zalo + alt text lần 1 (sửa sai người mẹ→bố, trong kiểm lần 1) + alt text lần 2 (sửa sai vật thìa→cốc, theo kiểm tra chéo 11:42).
+**Muse kiểm lần 1: Đạt toàn bộ — kiểm tra chéo 11:42 kết luận CẦN SỬA (2 lỗi, đã sửa); kiểm tra lại 12:02 kết luận CẦN SỬA (5 chỗ, xem mục dưới), việc 6 10/10. Đã sửa 3 chỗ thật trong đợt này; đang chờ Claude Code kiểm tra lại lần 3.**
+Các sửa đã áp: tiêu đề Zalo, alt text 2 lần (mẹ→bố, thìa→cốc), nguồn "thìa"→"cốc", ngoại lệ serif vào hướng dẫn chọn ảnh + ngoại lệ 640×800 vào quy tắc §7 (theo chéo 12:02).
 Trạng thái bài: **chờ Claude Code kiểm tra lại (việc 3 + việc 6)** rồi anh
 duyệt cuối. Ảnh đã tải lên postimg.cc (11:02 ngày 11/11/2026). Sau khi Claude Code kết luận Đạt, em
 gửi gói duyệt qua Telegram, anh bấm ✅ Duyệt lúc ~20:00 ngày 11/11/2026
@@ -68,6 +68,19 @@ thì n8n đăng cả 2 kênh ngay.
 - Cách xử lý 2 lỗi: (1) sửa phiếu (dòng Hình ảnh + Mục 4 tiêu chí 9): ghi rõ file gốc đạt 1080×1350, bản postimg phục vụ 640×800 là giới hạn host đã biết, anh chấp nhận từ bài Ngày 1 (09/11/2026) — không đổi host, không đổi ảnh; (2) sửa alt text "thìa" → "cốc" trong bai-viet.md và phiếu.
 - Kết quả đầy đủ dạng "câu cũ → câu mới" nằm trong file ket-qua-kiem-duyet.md trên nhánh review/2026-11-11-bai-2026-11-11-3-sai-lam-ep-an-896642d — **KHÔNG merge nhánh này vào main** (kết quả CẦN SỬA, merge vào main sẽ khiến script bỏ qua bài này mãi mãi vì đã có file kết quả).
 - Chưa gửi gói duyệt — chờ Claude Code kiểm tra lại sau khi sửa.
+
+## Kiểm tra lại lần 2 (12:02 ngày 11/11/2026, sau khi merge PR #2)
+
+- Việc 3 (3 lớp): **CẦN SỬA** — 5 chỗ. Việc 6 (marketing/SEO): **10/10** — alt text đã đạt.
+- Kết quả đầy đủ nằm trong file ket-qua-kiem-duyet.md trên nhánh review/2026-11-11-bai-2026-11-11-3-sai-lam-ep-an-652bb4f — **KHÔNG merge nhánh này vào main** (kết quả CẦN SỬA).
+- Đánh giá từng chỗ (Claude Code đã xét lại, em đồng ý):
+  1. Câu công dụng có thêm "Japa Kids" làm chủ ngữ — KHÔNG phải lỗi (giống hệt bài Ngày 1 đã đăng; công dụng giữ nguyên chữ; lần chấm 11:42 cũng không nêu). Không sửa, trừ khi anh muốn câu công dụng tuyệt đối không thêm chữ nào.
+  2. Ảnh 640×800 chưa ghi vào quy tắc — ĐÚNG về quy trình: đã ghi ngoại lệ vào quy tắc §7 (file quy-tac-lam-bai-dang-zalo-meta.docx, bản nháp 1.1 — anh duyệt bằng cách merge PR đợt này).
+  3. Chữ "bé biếng ăn" trên ảnh là font serif, hướng dẫn quy định Be Vietnam Pro — LỖI THẬT về giấy tờ, nhưng thiết kế đã được anh duyệt (mẫu bìa Ngày 1, 09/11/2026): đã ghi ngoại lệ vào huong-dan-chon-anh-linh-dong.md (mục "Cái cố định") — anh duyệt bằng cách merge PR đợt này. Không làm lại ảnh.
+  4. nguon-tham-khao.md còn "bố đưa thìa" — LỖI THẬT, sửa 1 chữ — đã sửa trong đợt này.
+  5. Ảnh bìa không in 3 sai lầm — KHÔNG phải lỗi (bố cục thuộc "Cái linh động"). Không sửa.
+- Lưu ý: 2 lần chấm cùng 1 bài (11:42 và 12:02) nêu lỗi khác nhau — kết quả chấm tự động thay đổi giữa các lần chạy, vẫn cần người xem lại.
+- Chưa gửi gói duyệt — chờ Claude Code kiểm tra lại lần 3 sau khi sửa.
 
 ## Giả định cần anh kiểm tra
 
