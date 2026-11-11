@@ -17,7 +17,7 @@ trên máy Mac (Claude Pro đã reset 01:00 ngày 11/11/2026, còn nguyên hạn
 | 2. Tuân thủ | Có câu cảnh báo bắt buộc đúng vị trí (với bài quảng cáo sản phẩm) | Đạt — có câu "Thực phẩm này không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh" ở cuối bài Facebook và cuối bản Zalo OA, đúng câu chữ đã chốt |
 | 2. Tuân thủ | Không dùng tư liệu thuộc danh sách cấm dùng | Đạt — không dùng 3 video anh đã chốt không gắn lên website; không trích số giấy tờ trong thân bài; tên bác sĩ review bài nguồn chỉ ghi trong nguon-tham-khao.md, KHÔNG ghi trong thân bài (Nghị định 15/2018 cấm hình ảnh/tên bác sĩ trong quảng cáo thực phẩm) |
 | 3. Nền tảng | Không vi phạm chính sách Meta / Zalo, đúng định dạng và giới hạn kênh | Đạt — tiêu đề Facebook 53 ký tự (≤70), tiêu đề Zalo 33 ký tự (<39), 3 hashtag, 1 CTA (lưu bài) + 1 câu hỏi thảo luận thật (không phải câu nhử tương tác). Không câu nhử tương tác, không clickbait, nội dung gốc tự viết |
-| Hình ảnh | Đúng kích thước / dung lượng, đúng nguồn, chữ trên ảnh đã kiểm duyệt | Đạt — ảnh bìa Facebook 1080×1350, 700.873 byte (< 1 MB); ảnh bìa Zalo OA 1280×720, 364.161 byte (< 1 MB). Cùng 1 ý tưởng, cùng ảnh gốc, cùng tiêu đề, cùng màu, cùng điểm nhấn (mẫu bìa Ngày 1 đã duyệt: nền kem trên + ảnh bé tràn viền dưới cho Facebook; panel kem trái + ảnh bé tràn viền phải cho Zalo). Ảnh bé khóc quay đi, bố đưa thìa: Pexels, tác giả George Pak, miễn phí bản quyền (ghi tác giả + nguồn trong nguon-tham-khao.md). Logo góc trái phía trên, nhỏ. Chữ trên ảnh chỉ còn tiêu đề serif "Bé biếng ăn" + phụ đề "3 sai lầm càng ép càng biếng ăn" (3 sai lầm chỉ có trong caption bài viết, không in trên ảnh) — không claim, không số liệu, không dính watermark. Chữ đậm trên nền kem, tương phản tốt, không bị cắt. Đã kiểm tra bằng mắt cả 2 ảnh ngày 11/11/2026 |
+| Hình ảnh | Đúng kích thước / dung lượng, đúng nguồn, chữ trên ảnh đã kiểm duyệt | Đạt có lưu ý — file gốc ảnh bìa Facebook 1080×1350, 700.873 byte (< 1 MB); ảnh bìa Zalo OA 1280×720, 364.161 byte (< 1 MB). Lưu ý (sửa sau kiểm tra chéo 11:42 ngày 11/11/2026): link postimg phục vụ bản Facebook thu nhỏ 640×800 — đã biết từ bài Ngày 1, anh chấp nhận ngày 09/11/2026, Facebook đăng được bình thường; đây là giới hạn của host, không phải lỗi file gốc. Cùng 1 ý tưởng, cùng ảnh gốc, cùng tiêu đề, cùng màu, cùng điểm nhấn (mẫu bìa Ngày 1 đã duyệt: nền kem trên + ảnh bé tràn viền dưới cho Facebook; panel kem trái + ảnh bé tràn viền phải cho Zalo). Ảnh bé khóc quay đi, bố đưa cốc: Pexels, tác giả George Pak, miễn phí bản quyền (ghi tác giả + nguồn trong nguon-tham-khao.md). Logo góc trái phía trên, nhỏ. Chữ trên ảnh chỉ còn tiêu đề serif "Bé biếng ăn" + phụ đề "3 sai lầm càng ép càng biếng ăn" (3 sai lầm chỉ có trong caption bài viết, không in trên ảnh) — không claim, không số liệu, không dính watermark. Chữ đậm trên nền kem, tương phản tốt, không bị cắt. Đã kiểm tra bằng mắt cả 2 ảnh ngày 11/11/2026 |
 
 ## Mục 4 — SEO & hiệu quả marketing (10 tiêu chí, theo skill-danh-gia-marketing-seo.md)
 
@@ -33,10 +33,10 @@ Phương pháp chấm: đếm số tiêu chí đạt trong 10 tiêu chí. Đây 
 | 6 | 1 CTA rõ ràng, duy nhất | Đạt — CTA "lưu bài này lại để dùng dần" |
 | 7 | Nội dung gốc (tự viết, ảnh thật / ảnh minh họa có nguồn) | Đạt — bài tự viết, ảnh Pexels miễn phí bản quyền có ghi tác giả + nguồn |
 | 8 | Hashtag 2–3 cái, đúng chủ đề | Đạt — 3 hashtag #JapaKids #BeBiengAn #BuaAnVui |
-| 9 | Alt text cho ảnh chính, có từ khóa tự nhiên | Đạt sau sửa — alt text cũ "Bé ngồi bàn ăn quay đi, mẹ cầm thìa" sai với ảnh thật (trong ảnh là bố đưa thìa, không phải mẹ) → đã sửa thành "Bé khóc quay đi khi bố đưa thìa thức ăn tới, bàn ăn gỗ — Bé biếng ăn: 3 sai lầm khiến bé càng ép càng biếng ăn." |
+| 9 | Alt text cho ảnh chính, có từ khóa tự nhiên | Đạt sau sửa lần 2 — alt text cũ "Bé ngồi bàn ăn quay đi, mẹ cầm thìa" sai người (trong ảnh là bố, không phải mẹ) → sửa lần 1 thành "...bố đưa thìa..." nhưng vẫn sai vật (trong ảnh bố đưa CỐC táo nghiền, không phải thìa) — Claude Code bắt ra trong kiểm tra chéo 11:42 ngày 11/11/2026 → sửa lần 2 thành "Bé khóc quay đi khi bố đưa cốc thức ăn tới, bàn ăn gỗ — Bé biếng ăn: 3 sai lầm khiến bé càng ép càng biếng ăn." |
 | 10 | Độ dài đúng khung (Facebook kiến thức 250–450 chữ; Zalo OA có đề mục rõ ràng) | Đạt — Facebook 321 chữ (đếm bằng máy ngày 11/11/2026); Zalo OA 231 chữ, chia 3 sai lầm rõ ràng |
 
-**Điểm marketing (Muse tự chấm): 10/10** sau 2 sửa trong kiểm duyệt (tiêu đề Zalo + alt text). Điểm này chưa phải hiệu quả thật — chờ Claude Code chấm chéo theo cùng thang điểm, rồi đo reach / lượt lưu / bình luận sau khi đăng mới biết hiệu quả thật.
+**Điểm marketing (Muse tự chấm): 10/10** sau 3 sửa (tiêu đề Zalo + alt text 2 lần: lần 1 sửa sai người mẹ→bố, lần 2 sửa sai vật thìa→cốc theo kiểm tra chéo 11:42 ngày 11/11/2026). Điểm 10/10 ghi trước đó là SAI ở tiêu chí 9 (alt text vẫn sai "thìa" sau lần sửa 1) — đã sửa lại. Điểm này chưa phải hiệu quả thật — chờ Claude Code chấm chéo lại theo cùng thang điểm, rồi đo reach / lượt lưu / bình luận sau khi đăng mới biết hiệu quả thật.
 
 ## Mục 5 — Chuẩn nội dung được đề xuất (anh duyệt 10/11/2026)
 
@@ -53,12 +53,21 @@ Phương pháp chấm: đếm số tiêu chí đạt trong 10 tiêu chí. Đây 
 
 ## Kết luận
 
-**Đạt toàn bộ (lớp kiểm duyệt của Muse, kiểm lần 1 ngày 11/11/2026).**
-2 sửa đã áp trong kiểm duyệt: tiêu đề Zalo + alt text (ghi ở Mục 4).
-Trạng thái bài: **chờ Claude Code kiểm tra chéo (việc 3 + việc 6)** rồi anh
-duyệt cuối. Sau khi Claude Code kết luận Đạt, em tải 2 ảnh lên postimg.cc,
+**Muse kiểm lần 1: Đạt toàn bộ (ngày 11/11/2026) — nhưng kiểm tra chéo 11:42 cùng ngày kết luận CẦN SỬA (xem mục dưới). Đã sửa 2 lỗi theo kết quả chéo; đang chờ Claude Code kiểm tra lại.**
+3 sửa đã áp: tiêu đề Zalo + alt text lần 1 (sửa sai người mẹ→bố, trong kiểm lần 1) + alt text lần 2 (sửa sai vật thìa→cốc, theo kiểm tra chéo 11:42).
+Trạng thái bài: **chờ Claude Code kiểm tra lại (việc 3 + việc 6)** rồi anh
+duyệt cuối. Ảnh đã tải lên postimg.cc (11:02 ngày 11/11/2026). Sau khi Claude Code kết luận Đạt, em
 gửi gói duyệt qua Telegram, anh bấm ✅ Duyệt lúc ~20:00 ngày 11/11/2026
 thì n8n đăng cả 2 kênh ngay.
+
+## Kết quả kiểm tra chéo của Claude Code (11:42 ngày 11/11/2026)
+
+- Việc 3 (3 lớp): **CẦN SỬA**. Lớp 1 và lớp 2 đạt. Lớp 3 chưa đạt vì 2 lỗi: (1) link ảnh Facebook trên postimg phục vụ 640×800, dưới mức tối thiểu 1080 px, phiếu ghi "Đạt" là sai; (2) alt text "bố đưa thìa" sai — trong ảnh bố đưa CỐC.
+- Việc 6 (marketing/SEO): **9/10, CẦN SỬA** — tiêu chí chưa đạt là alt text (lỗi "thìa").
+- 2 ghi chú KHÔNG phải lỗi: (a) Kiemsat.vn chưa uy tín bằng VnExpress Sức khỏe, nên thêm 1 nguồn nữa — ghi nhận để làm tốt hơn cho bài sau; bài này nguồn Kiemsat.vn vẫn đạt chuẩn "nguồn thật" (bài thật, có tác giả/ngày/link, chỉ dùng đúng 3 mục trong nguồn), không chặn bài; (b) cụm "bé biếng ăn" đặt sát câu "giúp ăn ngon miệng" có thể bị hiểu là sản phẩm chữa biếng ăn — quyết định của anh; em giữ nguyên câu công dụng đã duyệt (giống cấu trúc bài Ngày 1 đã đăng), bài không hứa chữa biếng ăn và có câu lưu ý đi khám.
+- Cách xử lý 2 lỗi: (1) sửa phiếu (dòng Hình ảnh + Mục 4 tiêu chí 9): ghi rõ file gốc đạt 1080×1350, bản postimg phục vụ 640×800 là giới hạn host đã biết, anh chấp nhận từ bài Ngày 1 (09/11/2026) — không đổi host, không đổi ảnh; (2) sửa alt text "thìa" → "cốc" trong bai-viet.md và phiếu.
+- Kết quả đầy đủ dạng "câu cũ → câu mới" nằm trong file ket-qua-kiem-duyet.md trên nhánh review/2026-11-11-bai-2026-11-11-3-sai-lam-ep-an-896642d — **KHÔNG merge nhánh này vào main** (kết quả CẦN SỬA, merge vào main sẽ khiến script bỏ qua bài này mãi mãi vì đã có file kết quả).
+- Chưa gửi gói duyệt — chờ Claude Code kiểm tra lại sau khi sửa.
 
 ## Giả định cần anh kiểm tra
 
@@ -73,7 +82,7 @@ thì n8n đăng cả 2 kênh ngay.
 
 ## Nguồn ảnh
 
-- Ảnh bé khóc quay đi, bố đưa thìa: Pexels, tác giả George Pak, miễn phí bản quyền — https://www.pexels.com/photo/crying-hungry-boy-by-a-table-getting-food-7984381/ — file gốc be-khoc-ban-an-pexels.jpg (1200×627) trong thư mục assets của html-post-render.
+- Ảnh bé khóc quay đi, bố đưa cốc: Pexels, tác giả George Pak, miễn phí bản quyền — https://www.pexels.com/photo/crying-hungry-boy-by-a-table-getting-food-7984381/ — file gốc be-khoc-ban-an-pexels.jpg (1200×627) trong thư mục assets của html-post-render.
 - Không dùng ảnh sản phẩm trong bài này.
 
 ## Link ảnh công khai (postimg.cc) — đã tải 11/11/2026, kiểm tra lại bằng curl

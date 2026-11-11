@@ -57,7 +57,7 @@ Thực phẩm này không phải là thuốc và không có tác dụng thay th�
 
 ## Alt text cho ảnh chính
 
-Bé khóc quay đi khi bố đưa thìa thức ăn tới, bàn ăn gỗ — Bé biếng ăn: 3 sai lầm khiến bé càng ép càng biếng ăn.
+Bé khóc quay đi khi bố đưa cốc thức ăn tới, bàn ăn gỗ — Bé biếng ăn: 3 sai lầm khiến bé càng ép càng biếng ăn.
 
 ## Nguồn tham khảo
 
