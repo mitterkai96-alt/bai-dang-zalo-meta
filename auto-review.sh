@@ -32,6 +32,16 @@ export PATH="$HOME/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:$PA
 # kết quả chấm vào sẽ tạo gói duyệt rỗng trên Telegram).
 N8N_WEBHOOK=""
 
+# Đăng nhập Claude khi chạy bằng cron: cron không mở được Keychain nên `claude`
+# có thể báo chưa đăng nhập. Cách sửa: chạy 1 lần `claude setup-token` trong Terminal,
+# lưu token vào file dưới đây (chmod 600). Script tự nạp nếu file tồn tại.
+#   mkdir -p ~/.config/auto-review && nano ~/.config/auto-review/claude-token && chmod 600 ~/.config/auto-review/claude-token
+TOKEN_FILE="$HOME/.config/auto-review/claude-token"
+if [ -z "$CLAUDE_CODE_OAUTH_TOKEN" ] && [ -r "$TOKEN_FILE" ]; then
+  CLAUDE_CODE_OAUTH_TOKEN="$(tr -d '[:space:]' < "$TOKEN_FILE")"
+  export CLAUDE_CODE_OAUTH_TOKEN
+fi
+
 ghi_log() { echo "$(date '+%Y-%m-%d %H:%M') — $*" >> "$LOG"; }
 
 # Giới hạn thời gian chạy: macOS không có lệnh `timeout`, dùng gtimeout nếu có, không thì perl.
@@ -131,7 +141,10 @@ for MA_BAI in $MA_BAI_LIST; do
   MA_THOAT=$?
 
   if [ $MA_THOAT -ne 0 ]; then
-    ghi_log "$MA_BAI — Claude Code loi (ma $MA_THOAT: het han muc, chua dang nhap, hoac qua $GIOI_HAN_GIAY giay)"
+    if [ $MA_THOAT -eq 142 ]; then LY_DO="qua $GIOI_HAN_GIAY giay, bi dung"; else LY_DO="xem dong 'Claude noi' ben duoi"; fi
+    ghi_log "$MA_BAI — Claude Code loi (ma $MA_THOAT: $LY_DO)"
+    ghi_log "$MA_BAI — Claude noi: $(head -c 500 "$TAM" 2>/dev/null | tr '\n' ' ')"
+    ghi_log "$MA_BAI — Moi truong: claude=$(command -v claude || echo KHONG-TIM-THAY), user=$(id -un), HOME=$HOME, token-file=$([ -r "$TOKEN_FILE" ] && echo co || echo khong), cron=$([ -t 0 ] && echo khong || echo co-the)"
     git -C "$REPO" worktree remove --force "$WORKTREE" >/dev/null 2>&1; WORKTREE=""
     git -C "$REPO" branch -D "$NHANH" >/dev/null 2>&1
     continue

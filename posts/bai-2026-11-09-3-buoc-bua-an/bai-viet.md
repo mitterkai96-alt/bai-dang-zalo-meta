@@ -2,9 +2,9 @@
 
 Mã bài: bai-2026-11-09-3-buoc-bua-an
 Ngày: 09/11/2026
-Phiên bản: v3 — sửa theo kết luận kiểm duyệt Claude Code (09/11/2026, 16:08): việc 3 CẦN SỬA (5 chỗ) + việc 6 9/10 (alt text)
+Phiên bản: v4 — ảnh bìa (09/11/2026, 18:48, anh chốt 'Dùng ảnh bìa này'): chỉ tiêu đề + ảnh bé cười, 3 bước chỉ còn trong caption bài viết, không còn trên ảnh. Bài viết (Facebook + Zalo OA) giữ nguyên v3 đã qua Claude Code kiểm tra lại 6/6 (16:16).
 Mục đích: kiến thức — mẹ lưu lại dùng dần, tin tưởng thương hiệu
-Tình huống ảnh: kiến thức → ảnh thật bữa ăn gia đình, 3 bước trên nền kem, điểm nhấn là 1 từ khóa trong tiêu đề
+Tình huống ảnh: kiến thức → ảnh bìa: nền kem, tiêu đề serif 'Bé biếng ăn', ảnh bé cười tràn viền (cắt từ thiết kế Canva 'THÓI QUEN BÀN ĂN' của anh); 3 bước chỉ có trong caption bài viết, không in trên ảnh
 
 ## Tiêu đề chính (Facebook, 43 ký tự)
 
@@ -57,9 +57,11 @@ Japa Kids hỗ trợ tăng cường tiêu hóa, giúp ăn ngon miệng.
 
 Thực phẩm này không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.
 
+Link ảnh bìa Zalo OA (postimg, dùng cho Article API Giai đoạn 2): https://i.postimg.cc/x8Ftbwdh/anh-chinh-zalo.png (1280×720, 444.397 byte — postimg giữ nguyên kích thước, không thu nhỏ).
+
 ## Alt text cho ảnh chính (ghi khi đăng tay; API Facebook không nhận alt text)
 
-Bàn ăn gia đình có bánh mì, mì Ý và trái cây — 3 bước giúp bé biếng ăn có bữa ăn nhẹ nhàng hơn.
+Bé cười ăn bông cải bên bàn ăn nhiều màu, áo vàng — Bé biếng ăn: 3 bước bữa ăn nhẹ nhàng.
 
 ## Lịch đăng đề xuất
 
@@ -72,8 +74,15 @@ Zalo OA: 10/11/2026, 09:00
 
 ## Nguồn tham khảo (chi tiết trong nguon-tham-khao.md)
 
-1. VnExpress Sức khỏe, "Vì sao trẻ biếng ăn?", 26/7/2026 — ThS.BS Hoàng Thị Hằng, Đơn vị Dinh dưỡng, Phòng khám Đa khoa Tâm Anh Cầu Giấy. Hỗ trợ bước 1 và bước 2.
+1. VnExpress Sức khỏe, "Vì sao trẻ biếng ăn?", 26/7/2026 — Tác giả: Trịnh Mai; tư vấn chuyên môn: ThS.BS Hoàng Thị Hằng, Đơn vị Dinh dưỡng, Phòng khám Đa khoa Tâm Anh Cầu Giấy. Hỗ trợ bước 1 và bước 2.
 2. Eva.vn, "Trẻ biếng ăn làm thế nào? 7 cách giúp con ăn uống tốt hơn". Hỗ trợ bước 2 và bước 3 (tự xúc, khen/ghi nhận tiến bộ nhỏ, hạn chế điện thoại/TV).
+
+## Thay đổi ở bản v4 — ảnh bìa (09/11/2026, 18:48)
+
+- Ảnh chính đổi từ ảnh PIL 3 bước sang ảnh bìa: nền kem, tiêu đề serif Playfair Display 'Bé biếng ăn', ảnh bé cười tràn viền chiếm ~63% canvas (cắt từ thiết kế Canva 'THÓI QUEN BÀN ĂN' của anh, DAHW-dLvV44). 3 bước không còn in trên ảnh — chỉ có trong caption bài viết (bài Facebook 257 chữ và bài Zalo OA 172 chữ giữ nguyên v3).
+- Lý do đổi (anh chốt 18:48): nhồi tiêu đề + 3 thẻ bước + dòng lưu bài lên 1 ảnh khiến ảnh thành infographic cứng; mẫu Canva anh khen gần như không có chữ trên ảnh.
+- Alt text viết lại theo đúng ảnh bìa mới.
+- Không đổi: bài Facebook, bài Zalo OA, tiêu đề, hashtag, câu cảnh báo, nguồn tham khảo.
 
 ## Thay đổi so với v2 (bản v3 — sửa theo kết luận Claude Code, 09/11/2026)
 
@@ -82,7 +91,8 @@ Zalo OA: 10/11/2026, 09:00
 - Bài Zalo OA: "Mẹ lưu bài này lại để dùng dần mẹ nhé." → "Mẹ lưu bài này lại để dùng dần nhé." (bỏ chữ "mẹ" thừa).
 - Bài Zalo OA: thêm dòng sản phẩm "Japa Kids hỗ trợ tăng cường tiêu hóa, giúp ăn ngon miệng." trước câu cảnh báo, để chữ "thực phẩm này" trong câu cảnh báo có đối tượng chỉ vào (lưu ý thêm của Claude Code).
 - Bổ sung nguồn tham khảo thật cho 3 bước (file nguon-tham-khao.md), không bịa nguồn.
-- Alt text viết lại theo đúng nội dung ảnh: "Bàn ăn gia đình có bánh mì, mì Ý và trái cây — 3 bước giúp bé biếng ăn có bữa ăn nhẹ nhàng hơn."
+- Alt text viết lại theo đúng nội dung ảnh: "Bé trai cầm nĩa ăn rau bên bàn ăn gia đình có bánh mì, mì Ý và trái cây — 3 bước giúp bé biếng ăn có bữa ăn nhẹ nhàng hơn." (bổ sung sau kiểm tra lại của Claude Code 16:16 — alt text bản v3 chỉ tả bàn ăn, chưa nhắc bé là nhân vật chính).
+- Nguồn tham khảo ghi đủ tên tác giả bài VnExpress: Trịnh Mai (bác sĩ Hoàng Thị Hằng chỉ là người tư vấn chuyên môn) — bổ sung sau kiểm tra lại của Claude Code 16:16.
 - Không đổi: 3 bước, câu lưu ý không thay thế khám / chẩn đoán / điều trị, công dụng đã duyệt, câu cảnh báo bắt buộc, hashtag, tiêu đề Facebook và Zalo OA.
 
 ## Thay đổi so với v1 (09/11/2026)
