@@ -183,7 +183,9 @@ Gộp 5 dấu hiệu của Long Châu + đối chiếu SKĐS, UChicago, MedCare 
 - Tiêu đề dùng trên ảnh (để cron Bước 4 viết bài khớp tiêu đề):
   "3 dấu hiệu biếng ăn mẹ nên đưa bé đi khám ngay" — dạng nêu giá trị
   theo chuẩn nội dung đã duyệt, không mở đầu bằng câu hỏi thăm dò.
-- Ảnh bìa Facebook `anh-chinh.png` 1080×1350, 649.364 byte (< 1 MB);
-  ảnh bìa Zalo OA `anh-chinh-zalo.png` 1280×720, 525.715 byte (< 1 MB).
+- Ảnh bìa Facebook `anh-chinh.png` 1080×1350, 619.397 byte (< 1 MB);
+  ảnh bìa Zalo OA `anh-chinh-zalo.png` 1280×720, 501.411 byte (< 1 MB).
+  Render lại 16/11/2026 sau kiểm tra chéo vòng 1: bỏ 5 sao đỏ cả 2 bìa,
+  nền vàng đậm → kem #FFF8E7 (màu kem của mẫu Day 1 đã duyệt).
   Cùng ảnh gốc, cùng tiêu đề, cùng màu, cùng điểm nhấn (số bước đỏ
   "1." "2." "3."). Đã kiểm tra bằng mắt cả 2 ảnh ngày 12/11/2026.

@@ -170,6 +170,22 @@ không dùng làm nguồn chính.
   trước khi chúng trở nên thích." CDC gọi kén ăn là "hành vi bình
   thường và có thể biến mất khi trẻ từ 5 tuổi trở lên."
 
+### Nguồn đối chiếu 4: Nhà thuốc Long Châu — "Bé biếng ăn phải làm sao? Khi nào cần đưa bé đi khám dinh dưỡng?"
+
+Nhà thuốc Long Châu, link:
+https://nhathuoclongchau.com.vn/bai-viet/be-bieng-an-phai-lam-sao-khi-nao-can-dua-be-di-kham-dinh-duong.html
+— đọc full bài trong gói bài sáng nay 12/11/2026 (trang ghi "Người chịu
+trách nhiệm nội dung: Nguyễn Bạch Điệp"; không thấy ngày đăng và tên tác
+giả hiển thị trên trang). Bổ sung vào gói này ngày 16/11/2026 để gói tự
+kiểm tra được, sau khi kiểm tra chéo chỉ ra câu dưới 6 tháng trong bài
+này trước đây chỉ ghi "đã xác minh ở bài sáng nay".
+
+- Lưu ý riêng trong nguồn: trẻ dưới 6 tháng tuổi bú kém là dấu hiệu bất
+  thường, cần đưa đi khám ngay, không nằm trong nhóm biếng ăn sinh lý
+  hay tâm lý. Dùng cho câu "Bé dưới 6 tháng bú kém là dấu hiệu bất
+  thường, mẹ đưa bé đi khám ngay, không chờ." (Facebook) và "Bé dưới 6
+  tháng bú kém thì mẹ đưa đi khám ngay." (Zalo OA).
+
 ## Nguồn 3 — Kiến thức phổ thông (chỉ cho câu hỏi chăm bé chung)
 
 Bài này không cần kiến thức phổ thông ngoài 4 nguồn trên. Toàn bộ 3
@@ -188,7 +204,8 @@ Gộp từ 4 nguồn trên thành đúng 3 việc theo chủ đề trong lịch
    những gì bé ăn trong 1 tuần hoặc 1 tháng mới thấy bé có đủ các nhóm
    thực phẩm hay không (Vinmec đối chiếu 2 + đối chiếu 1: ghi lại thực
    đơn 1 tuần có thể thấy bé đã ăn đủ các nhóm chính). Ép ăn không làm
-   bé tăng cân (nghiên cứu Michigan, 244 trẻ 21–27 tháng).
+   thay đổi đường cong cân nặng của bé (nghiên cứu Michigan, 244 trẻ
+   21–27 tháng).
 2. **Đưa thìa cho bé tự xúc, mẹ ngồi ăn cùng làm gương.** Khi bé đủ lớn
    để dùng thìa, mẹ đừng cầm thìa nữa — bé đói sẽ tự xúc, tự điều chỉnh
    tốc độ ăn của mình (Vinmec nguồn chính). Bé bắt chước mẹ: thấy mẹ ăn
@@ -247,7 +264,7 @@ Gộp từ 4 nguồn trên thành đúng 3 việc theo chủ đề trong lịch
   1,8–2,3 kg/năm, khẩu phần lòng bàn tay, 10 lần nếm — áp cho trẻ 1–5
   tuổi (Vinmec nguồn chính ghi rõ 1–5 tuổi). Không áp máy móc cho bé
   dưới 1 tuổi; bé dưới 6 tháng bú kém là dấu hiệu bất thường, cần đi
-  khám ngay (đã xác minh ở bài sáng nay, nguồn Long Châu).
+  khám ngay (nguồn Long Châu — xem Nguồn đối chiếu 4).
 - **"4 thìa rau" là ví dụ khẩu phần, không phải chỉ tiêu bắt buộc.**
   Khi viết bài, trình bày đúng như nguồn: đó là ví dụ về khẩu phần
   dành cho trẻ em, không phải "bé phải ăn đủ 4 thìa rau mới đạt".
@@ -288,8 +305,10 @@ Gộp từ 4 nguồn trên thành đúng 3 việc theo chủ đề trong lịch
   3 việc này", không mở đầu bằng câu hỏi thăm dò. 3 việc trên ảnh là
   dạng rút gọn của 3 việc đã xác minh (nhìn cả tuần, đừng đếm thìa /
   đưa thìa cho bé tự xúc / múc ít, hết bữa thì dọn bàn).
-- Ảnh bìa Facebook `anh-chinh.png` 1080×1350, 811.968 byte (< 1 MB);
-  ảnh bìa Zalo OA `anh-chinh-zalo.png` 1280×720, 561.388 byte (< 1 MB).
+- Ảnh bìa Facebook `anh-chinh.png` 1080×1350, 815.116 byte (< 1 MB);
+  ảnh bìa Zalo OA `anh-chinh-zalo.png` 1280×720, 560.990 byte (< 1 MB).
+  Render lại 16/11/2026 sau kiểm tra chéo vòng 1: bỏ 5 sao đỏ bìa Zalo,
+  tiêu đề "ĐỪNG ÉP THÊM" đổi sang Playfair Display cả 2 bìa.
   Cùng ảnh gốc, cùng tiêu đề, cùng màu, cùng điểm nhấn (số bước đỏ
   "1." "2." "3."). Bản Facebook dùng mẫu v3b (ảnh lớn trên + dải tiêu
   đề dưới) vì dải ảnh 500px của mẫu v3a cắt mất mặt bé; bản Zalo giữ

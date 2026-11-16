@@ -23,7 +23,7 @@ Bé biếng ăn được ít thìa: mẹ đừng ép thêm, làm 3 việc này
 
 Bé biếng ăn được vài thìa đã dừng, mẹ đừng ép thêm nữa. Ép ăn không giúp bé ăn nhiều hơn, mà còn biến bữa ăn thành hình phạt, khiến bé sợ bữa ăn sau.
 
-Việc 1: Đừng đếm thìa trong 1 bữa — nhìn cả tuần và nhìn đường cong tăng trưởng. Bé 1–5 tuổi chỉ tăng khoảng 1,8–2,3 kg/năm, nên 3–4 tháng không thấy tăng cân cũng là bình thường, và bé ăn ít nhưng vẫn phát triển đúng biểu đồ tăng trưởng thì hoàn toàn ổn. Mẹ ghi lại thực đơn của bé trong 1 tuần sẽ thấy bé đã ăn đủ các nhóm thực phẩm chính hay chưa. Nghiên cứu trên 244 trẻ 21–27 tháng tuổi cũng cho thấy ép ăn không làm bé tăng cân.
+Việc 1: Đừng đếm thìa trong 1 bữa — nhìn cả tuần và nhìn đường cong tăng trưởng. Bé 1–5 tuổi chỉ tăng khoảng 1,8–2,3 kg/năm, nên 3–4 tháng không thấy tăng cân cũng là bình thường, và bé ăn ít nhưng vẫn phát triển đúng biểu đồ tăng trưởng thì hoàn toàn ổn. Mẹ ghi lại thực đơn của bé trong 1 tuần sẽ thấy bé đã ăn đủ các nhóm thực phẩm chính hay chưa. Nghiên cứu trên 244 trẻ 21–27 tháng tuổi cũng cho thấy ép ăn không làm thay đổi đường cong cân nặng của bé.
 
 Việc 2: Đưa thìa cho bé tự xúc, mẹ ngồi ăn cùng làm gương. Khi bé đủ lớn để dùng thìa, mẹ đừng cầm thìa nữa — bé đói sẽ tự xúc và tự điều chỉnh tốc độ ăn của mình. Bé thích làm theo mẹ, nên mẹ ngồi ăn cùng, ăn ngon miệng, thì bé cũng muốn làm theo. Mẹ quyết định thực đơn và giờ ăn, còn bé quyết định ăn gì và ăn bao nhiêu.
 
@@ -70,7 +70,7 @@ Thực phẩm này không phải là thuốc và không có tác dụng thay th�
 
 ## Alt text cho ảnh chính
 
-Mẹ tóc dài ngồi cạnh bé ngồi ghế ăn trong bếp, bé mặc áo xám tự cầm thìa trắng — bé ăn được ít thìa, mẹ đừng ép thêm, làm 3 việc này.
+Mẹ tóc dài ngồi cạnh bé biếng ăn trên ghế ăn trong bếp, bé mặc áo xám tự cầm thìa trắng — bé biếng ăn được ít thìa, mẹ đừng ép thêm, làm 3 việc này.
 
 (Ghi chú: đã xem ảnh thật cả 2 bản Facebook và Zalo OA ngày 12/11/2026. Người trong ảnh là MẸ tóc dài, áo xanh nhạt — không phải bố. Bé ngồi ghế ăn, mặc áo xám, tay cầm thìa trắng, tay kia đưa lên gần miệng; mẹ cũng cầm 1 chiếc thìa. Bản Zalo OA thấy rõ thêm đĩa thức ăn trên bàn trước mặt bé. Alt text viết theo ảnh thật đã xem, khớp đề xuất trong `phieu-kiem-duyet.md`, chỉ thêm "mặc áo xám" và "thìa trắng" cho đúng vật trong ảnh.)
 
@@ -89,6 +89,7 @@ Zalo OA: 12/11/2026, 20:00
 - Vinmec, "Trẻ 2-4 tuổi kén ăn: Phải làm thế nào?", tham vấn chuyên môn: Bác sĩ Hồ Thị Hồng Tho — Bác sĩ Nhi sơ sinh, Khoa Nhi - Sơ sinh, Bệnh viện Đa khoa Quốc tế Vinmec Phú Quốc. Đăng 10/07/2024, cập nhật 15/07/2026. Link: https://www.vinmec.com/vie/bai-viet/tre-2-4-tuoi-ken-phai-lam-nao-vi — đọc full ngày 12/11/2026.
 - Vinmec, "Cách tránh biến bữa ăn thành cuộc 'đấu tranh'", chuyên gia dinh dưỡng Nancy Hudson, Đại học California tại Davis. Đăng 10/07/2024, cập nhật 15/07/2026. Link: https://www.vinmec.com/vie/bai-viet/cach-tranh-bien-bua-thanh-cuoc-dau-tranh-vi — đọc full ngày 12/11/2026.
 - Sức khỏe & Đời sống (báo của Bộ Y tế), "Lý do bố mẹ không nên ép con trẻ ăn thức ăn mà chúng không muốn" — nghiên cứu Đại học Michigan, TS Julie Lumeng, 244 trẻ 21–27 tháng tuổi, tạp chí Appetite. Bản đăng lại đã đọc full ngày 12/11/2026: https://haingoaiphiemdam.com/p120a30608/363/ly-do-bo-me-khong-nen-ep-con-tre-an-thuc-an-ma-chung-khong-muon (ngày đăng gốc của SKĐS chưa xác minh được).
+- Nhà thuốc Long Châu, "Bé biếng ăn phải làm sao? Khi nào cần đưa bé đi khám dinh dưỡng?", người chịu trách nhiệm nội dung: Nguyễn Bạch Điệp. Link: https://nhathuoclongchau.com.vn/bai-viet/be-bieng-an-phai-lam-sao-khi-nao-can-dua-be-di-kham-dinh-duong.html — đọc full trong gói bài sáng nay 12/11/2026; lưu ý riêng trong nguồn: trẻ dưới 6 tháng tuổi bú kém là dấu hiệu bất thường, cần đưa đi khám ngay (dùng cho câu "Bé dưới 6 tháng bú kém..." trong bài này; bổ sung vào gói ngày 16/11/2026 để gói tự kiểm tra được).
 - Hồ sơ / dữ liệu đã chốt: `du-lieu-chot.json` — công dụng duy nhất đã duyệt "Hỗ trợ tăng cường tiêu hóa, giúp ăn ngon miệng." + câu cảnh báo bắt buộc "Thực phẩm này không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh." Bài Hỏi mẹ nên không đưa giá, combo, quà tặng, phí ship làm nội dung.
 - Chi tiết đầy đủ: `nguon-tham-khao.md` trong cùng thư mục bài.
 
